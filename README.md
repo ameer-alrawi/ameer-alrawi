@@ -72,7 +72,7 @@ Machine learning model solving real-world problems with optimized performance.
 ## 🌍 Professional Links
 
 <p align="center">
-  <a href="[your-linkedin](https://www.linkedin.com/in/ameer-alrawi)">
+  <a href="https://www.linkedin.com/in/ameer-alrawi">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="your-portfolio">
