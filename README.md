@@ -1,6 +1,6 @@
 <!-- Premium Minimal Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=YOUR%20NAME&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="banner.gif" width="100%" />
 </p>
 
 <h2 align="center">Full-Stack Web Developer • AI Engineer • Creative Designer</h2>
