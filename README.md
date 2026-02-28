@@ -72,7 +72,7 @@ Machine learning model solving real-world problems with optimized performance.
 ## 🌍 Professional Links
 
 <p align="center">
-  <a href="your-linkedin">
+  <a href="[your-linkedin](https://www.linkedin.com/in/ameer-alrawi)">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="your-portfolio">
@@ -81,19 +81,4 @@ Machine learning model solving real-world problems with optimized performance.
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Design clean. Build smart. Ship fast."</i>
-</p>
-
-<p align="center">
-  ⭐ If you like my work, consider following or collaborating.
-</p>
-
-<!-- Premium Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:0f0f0f&height=120&section=footer" />
 </p>
