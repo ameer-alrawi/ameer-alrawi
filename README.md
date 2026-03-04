@@ -35,7 +35,7 @@
 
 ### 🗄 Databases & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=cloudflare,mysql,codepen,git,github,figma,vscode,docker,gcp,ai,ps" />
+<img src="https://skillicons.dev/icons?i=cloudflare,codepen,git,github,figma,vscode,docker,gcp,ai,ps" />
 </p>
 
 ---
