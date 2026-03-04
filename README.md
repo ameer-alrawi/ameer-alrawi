@@ -25,17 +25,17 @@
 
 ### 💻 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,ts,figma" />
 </p>
 
 ### 🤖 AI & Programming
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=python,docker,pytorch,opencv" />
 </p>
 
 ### 🗄 Databases & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=cloudflare,mysql,codepen,git,github,figma,vscode,docker,gcp,ai,ps" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Machine learning model solving real-world problems with optimized performance.
   <a href="your-portfolio">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:ameerayahamed@email.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" />
   </a>
 </p>
