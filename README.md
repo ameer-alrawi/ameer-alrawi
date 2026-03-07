@@ -40,25 +40,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### 🧩 Intelligent Web Application
-Full-stack web application with authentication, API integration, and clean UI.
-
-**Tech:** React • Node.js • MongoDB  
-🔗 Live Demo: (add link)  
-📂 Repository: (add link)
-
----
-
-### 🤖 AI Project
-Machine learning model solving real-world problems with optimized performance.
-
-**Tech:** Python • TensorFlow • Data Processing  
-📊 Accuracy: (add result)  
-📂 Repository: (add link)
-
----
 
 ## 🌍 Professional Links
 
