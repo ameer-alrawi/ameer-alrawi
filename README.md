@@ -13,11 +13,14 @@
 
 ## 🧠 About Me
 
-- 🚀 Building modern **Web Apps & AI Solutions**
-- 🧩 Strong focus on clean architecture & performance
-- 🎨 Passionate about UI/UX and visual clarity
-- 📈 Goal: Professional Full-Stack & AI Engineer
-- ⚡ Always learning. Always improving.
+I am a developer focused on building **modern web applications and AI-powered tools**.  
+My work emphasizes **clean architecture, performance, and scalable systems**.
+
+I enjoy creating **simple, intuitive user interfaces** while maintaining strong engineering principles behind the scenes.
+
+🎯 **Goal:** Become a professional **Full-Stack & AI Engineer** building impactful technology.
+
+⚡ **Mindset:** Always learning. Always improving.
 
 ---
 
